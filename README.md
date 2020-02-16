@@ -10,3 +10,7 @@
     alert(str.split('a').length-1);
 
 6. I will add link to my projects later because of deadline :)
+7. Education: school --> Academic lyceum --> now sduying in university
+8. English: have studied for one year, i think that my level is INTERMIDIATE
+
+
