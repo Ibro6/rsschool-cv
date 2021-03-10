@@ -14,19 +14,10 @@ body {
     padding: 20px 0;
 }
 
-.avatar {
-    width: 300px;
-    border-radius: 50%;
-}
-
-li {
-    list-style: none;
-    margin: 5px;
-}
-
 .social-media {
     display: flex;
 }
+
 .social-media-item {
     margin-right: 20px;
     width: 50px;
@@ -60,4 +51,14 @@ li {
     text-transform: uppercase;
     color: #ffffff;
     letter-spacing: 2px;
+}
+
+.avatar {
+    width: 300px;
+    border-radius: 50%;
+}
+
+li {
+    list-style: none;
+    margin: 5px;
 }
